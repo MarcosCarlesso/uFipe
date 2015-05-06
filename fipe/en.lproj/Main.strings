@@ -1,0 +1,15 @@
+
+/* Class = "UILabel"; text = "Carros"; ObjectID = "7tI-1a-JYj"; */
+"7tI-1a-JYj.text" = "Carros";
+
+/* Class = "UITableViewSection"; headerTitle = "Section-1"; ObjectID = "AxZ-ou-IQW"; */
+"AxZ-ou-IQW.headerTitle" = "Section-1";
+
+/* Class = "UINavigationItem"; title = "Root View Controller"; ObjectID = "DFU-oP-F5I"; */
+"DFU-oP-F5I.title" = "Root View Controller";
+
+/* Class = "UITableViewSection"; headerTitle = "Section-2"; ObjectID = "Oil-nV-x2D"; */
+"Oil-nV-x2D.headerTitle" = "Section-2";
+
+/* Class = "UISearchBar"; placeholder = "Localizar"; ObjectID = "PRC-Wi-sbl"; */
+"PRC-Wi-sbl.placeholder" = "Localizar";

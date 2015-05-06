@@ -1,0 +1,54 @@
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "27s-T0-Zsy"; */
+"27s-T0-Zsy.text" = "Title";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "7nG-39-lVX"; */
+"7nG-39-lVX.text" = "Label";
+
+/* Class = "UILabel"; text = "Carros"; ObjectID = "7tI-1a-JYj"; */
+"7tI-1a-JYj.text" = "Carros";
+
+/* Class = "UILabel"; text = "Caminhões"; ObjectID = "8K6-Ec-GKi"; */
+"8K6-Ec-GKi.text" = "Caminhões";
+
+/* Class = "UITableViewSection"; headerTitle = "Localizar"; ObjectID = "AxZ-ou-IQW"; */
+"AxZ-ou-IQW.headerTitle" = "Localizar";
+
+/* Class = "UINavigationItem"; title = "Fipe"; ObjectID = "DFU-oP-F5I"; */
+"DFU-oP-F5I.title" = "Fipe";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "GzF-E8-LtY"; */
+"GzF-E8-LtY.text" = "Label";
+
+/* Class = "UISearchBar"; placeholder = "Localizar"; ObjectID = "MjB-YT-I5f"; */
+"MjB-YT-I5f.placeholder" = "Localizar";
+
+/* Class = "UITableViewSection"; headerTitle = "Outros"; ObjectID = "Oil-nV-x2D"; */
+"Oil-nV-x2D.headerTitle" = "Outros";
+
+/* Class = "UILabel"; text = "Carregando..."; ObjectID = "P97-rA-0c9"; */
+"P97-rA-0c9.text" = "Carregando...";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "RU4-W2-VKe"; */
+"RU4-W2-VKe.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "XcM-OH-2PM"; */
+"XcM-OH-2PM.text" = "Label";
+
+/* Class = "UILabel"; text = "Favoritos"; ObjectID = "aCJ-Xc-aK1"; */
+"aCJ-Xc-aK1.text" = "Favoritos";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "bqk-kr-c5r"; */
+"bqk-kr-c5r.text" = "Title";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "fRr-XJ-qJy"; */
+"fRr-XJ-qJy.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "g0J-B6-Izh"; */
+"g0J-B6-Izh.text" = "Label";
+
+/* Class = "UILabel"; text = "Motos"; ObjectID = "jwe-Vt-rpG"; */
+"jwe-Vt-rpG.text" = "Motos";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "kg8-M0-4pv"; */
+"kg8-M0-4pv.normalTitle" = "Button";
